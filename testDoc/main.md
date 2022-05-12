@@ -1,6 +1,6 @@
 empieza texto principal
 dentro del contexto se hablará del proceso:
-1. Levantamiento (Ver [documentación](https://github.com/aristotelesquintanar/hello-world/blob/main/testDoc/levantamiento.md)).
+1. Levantamiento (Ver [documentación](levantamiento.md)).
 2. Pretotyping
 3. Validación (prueba de concepto)
 4. Prototipo (funcional?)
