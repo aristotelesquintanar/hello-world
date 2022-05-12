@@ -1,6 +1,6 @@
 empieza texto principal
 dentro del contexto se hablará del proceso:
-1. Levantamiento
+1. Levantamiento (Ver [documentación](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md)).
 2. Pretotyping
 3. Validación (prueba de concepto)
 4. Prototipo (funcional?)
