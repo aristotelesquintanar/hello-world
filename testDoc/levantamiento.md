@@ -5,11 +5,9 @@ Dentro de la fase de levantamiento, se realizará ...
 
 Texto en **negrita**.  Texto en *cursiva*.  Texto en ***negrita y cursiva***.
 
-:::row:::
-   :::column span="":::
-      Content...
-   :::column-end:::
-   :::column span="":::
-      More content...
-   :::column-end:::
-:::row-end:::
+# Título de primer nivel (H1)
+## Título de segundo nivel (H2)
+...
+###### Título de sexto nivel (H6)
+
+<!--- Comentario --->
