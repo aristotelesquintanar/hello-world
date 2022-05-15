@@ -1,16 +1,15 @@
 # Levantamiento
 Dentro de la fase de levantamiento, se realizará ...
-[!NOTE]
-Information the user should notice even if skimming.
-
-> [!TIP]
+> Cita:
 > Optional information to help a user be more successful.
 
-> [!IMPORTANT]
-> Essential information required for user success.
+Texto en **negrita**.  Texto en *cursiva*.  Texto en ***negrita y cursiva***.
 
-> [!CAUTION]
-> Negative potential consequences of an action.
-
-> [!WARNING]
-> Dangerous certain consequences of an action.
+:::row:::
+   :::column span="":::
+      Content...
+   :::column-end:::
+   :::column span="":::
+      More content...
+   :::column-end:::
+:::row-end:::
