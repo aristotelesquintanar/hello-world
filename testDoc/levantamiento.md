@@ -1,7 +1,7 @@
 # Levantamiento
 Dentro de la fase de levantamiento, se realizará ...
-> [!NOTE]
-> Information the user should notice even if skimming.
+[!NOTE]
+Information the user should notice even if skimming.
 
 > [!TIP]
 > Optional information to help a user be more successful.
